@@ -1,0 +1,3 @@
+﻿  ReporterApp.cpp
+D:\Programming\Cpp\OS\OS1\Creator\ReporterApp.cpp(12,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Creator.vcxproj -> D:\Programming\Cpp\OS\OS1\x64\Debug\ReporterApp.exe

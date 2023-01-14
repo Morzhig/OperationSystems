@@ -1,0 +1,3 @@
+﻿  CreatorApp.cpp
+D:\Programming\Cpp\OS\OS1\Reporter\CreatorApp.cpp(35,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Reporter.vcxproj -> D:\Programming\Cpp\OS\OS1\x64\Debug\CreatorApp.exe
